@@ -35,13 +35,13 @@ const StyledTitle = styled.h2`
   ${media.phone`font-size: 40px;`};
 `;
 const StyledSubtitle = styled.h3`
-  font-size: 30px;
+  font-size: 30;
   line-height: 1.1;
   color: ${colors.slate};
   ${media.desktop`font-size: 30px;`};
-  ${media.tablet`font-size: 60px;`};
-  ${media.phablet`font-size: 50px;`};
-  ${media.phone`font-size: 40px;`};
+  ${media.tablet`font-size: 30px;`};
+  ${media.phablet`font-size: 25px;`};
+  ${media.phone`font-size: 20px;`};
 `;
 const StyledDescription = styled.div`
   margin-top: 25px;
