@@ -226,13 +226,13 @@ const GlobalStyle = createGlobalStyle`
     color: ${colors.green};
     font-family: ${fonts.SFMono};
     font-size: ${fontSizes.md};
-    font-weight: normal;
+    font-weight: normal; 
   }
 
   .subtitle {
     color: ${colors.green};
     margin: 0 0 20px 0;
-    font-size: 30px;
+    font-size: ${fontSizes.md};
     font-family: ${fonts.SFMono};
     font-weight: normal;
     line-height: 1.5;

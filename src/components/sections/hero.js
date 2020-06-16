@@ -38,7 +38,7 @@ const StyledSubtitle = styled.h3`
   font-size: 80px;
   line-height: 1.1;
   color: ${colors.slate};
-  ${media.desktop`font-size: 70px;`};
+  ${media.desktop`font-size: 30px;`};
   ${media.tablet`font-size: 60px;`};
   ${media.phablet`font-size: 50px;`};
   ${media.phone`font-size: 40px;`};
