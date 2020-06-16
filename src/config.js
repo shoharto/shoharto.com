@@ -1,9 +1,9 @@
 module.exports = {
   siteTitle: 'Bayes Ahmed Shoharto | Software Engineer',
   siteDescription:
-    'Bayes Ahmed Shoharto is a software engineer based in Malaysia, UTM who specializes in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+    'Bayes Ahmed Shoharto is a software engineer based in Malaysia, UTM who specializes in building exceptional websites, applications, and everything in between.',
   siteKeywords:
-    'Bayes Ahmed Shoharto, Bayes, Ahmed, Shoharto, software engineer, front-end engineer, web developer, javascript, malaysia, utm',
+    'Bayes Ahmed Shoharto, Bayes, Ahmed, Shoharto, software engineer, front-end engineer, web developer, javascript, malaysia, utm, php, laravel',
   siteUrl: 'https://shoharto.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
