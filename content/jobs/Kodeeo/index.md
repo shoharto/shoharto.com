@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - Dec 2017'
-url: 'https://www.apple.com/music/'
+date: '2017-08-01'
+title: 'Web Developer (Internship)'
+company: 'Kodeeo'
+location: 'Dhaka, Bangladesh'
+range: 'Oct 2017 - Feb 2018'
+url: 'https://www.kodeeo.com/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
