@@ -4,9 +4,9 @@ avatar: './me.jpg'
 skills:
   - JavaScript (ES6+)
   - HTML & (S)CSS
-  - React
-  - Vue
-  - PHP
+  - React.js
+  - Vue.js
+  - Node.js
   - Laravel
 ---
 
@@ -17,5 +17,3 @@ I enjoy creating things that live on the internet, whether that be websites, app
 Now I'm studying in Bachelor of Computer Science (Software Engineering) [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/). Besides, I work on a wide variety of interesting and meaningful projects on a daily basis.
 
 Here are a few technologies I've been working with recently:
-
-
